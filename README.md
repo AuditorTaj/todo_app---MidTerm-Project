@@ -1,1 +1,1 @@
-Basic ToDo app using FastAPI for the backend, PostgreSQL for data storage, Streamlit for the frontend, Kafka for messaging, and Kong for API management. This setup provides a robust, scalable, and maintainable application architecture.
+Mid Term Project - Basic ToDo app using FastAPI for the backend, PostgreSQL for data storage, Streamlit for the frontend, Kafka for messaging, and Kong for API management. This setup provides a robust, scalable, and maintainable application architecture.
